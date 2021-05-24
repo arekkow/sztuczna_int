@@ -1,3 +1,2 @@
-#projekt_smieciarka
 
 inteligentna smieciarka
